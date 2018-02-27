@@ -8,7 +8,7 @@ if (value > 0) {
     console.log('Wynik ujemny: ' + value);
 }
 
-if (value == 0) {
+if (value === 0) {
     console.log('Wynik równy ' + 0);
 } else {
     console.log('Wynik różny od ' + 0);
